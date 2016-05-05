@@ -1,0 +1,8 @@
+instrucciones para guardar un resultado desde haskell desde bash
+
+hacer cd hasta llegar al lugar deseado en la ruta
+#queremos correr haskellarchivos.hs
+> ghc haskellarchivos.hs
+> runhaskell haskellarchivos.hs ramon/veamos.txt veamos1.txt
+
+#runhaskell archivo.hs que queremos leer adónde queremos mandar
